@@ -4,10 +4,13 @@ A simple, yet powerful password generator with a visually appealing GUI, built u
 
 ## Features
 
-Customizable password length
-Option to include uppercase letters, digits, and special characters
-Visually appealing and user-friendly interface
-Generates secure and random passwords
+* Customizable password length
+
+* Option to include uppercase letters, digits, and special characters
+
+* Visually appealing and user-friendly interface
+
+* Generates secure and random passwords
 
 ## Usage
 
