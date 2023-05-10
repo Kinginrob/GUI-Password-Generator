@@ -18,3 +18,5 @@ Choose whether to include uppercase letters, digits, and special characters usin
 Click the "Generate Password" button to create a secure, random password.
 
 The generated password will appear in the "Generated Password" field. Copy and use it as needed.
+
+![PWPW](https://github.com/Kinginrob/GUI-Password-Generator/assets/89039139/6cd180e5-b23a-4341-9f66-c0bb42999ee1)
